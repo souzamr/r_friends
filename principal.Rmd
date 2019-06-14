@@ -1,0 +1,40 @@
+---
+title: "Make R Friends"
+author: "Marcelo R Souza"
+date: "09/04/2019  (updated: `r Sys.Date()`)"
+output: pdf_document
+fontsize: 12pt
+---
+
+## Fique conectado
+
+O R é uma ótima maneira de fazer amigos e ficar conectado com outras pessoas. Para auxiliar nesta jornada coloquei aqui alguns programas, sites, blogs, repositórios que eu sigo.
+
+Não se esqueça **R is free as freedom** e seu papel em continuar levando esta bandeira é fundamental.
+
+## A raiz de tudo [**R-project**](https://www.r-project.org/)
+
+No CRAN (Comprehensive R Archive Network) você encontra muito material oficial, vale a pena navegar por lá:
+
+- [Conferências](https://www.r-project.org/conferences/)
+- [Manuais](http://cran.r-project.org/manuals.html)
+- [Mailing Lists](https://www.r-project.org/mail.html)
+- [Sites de Busca](https://www.r-project.org/search.html)
+- [Página de Ajuda](https://www.r-project.org/help.html)
+
+## Além disso:
+
+### Sites
+
+### Blogs
+
+### Listas de discussão
+
+### Perfis sociais
+
+### Livros
+- [27 Excellent Free Books to Learn all about R]()
+
+
+
+
